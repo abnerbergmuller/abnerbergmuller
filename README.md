@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/OleusouoAbner-ezgif.com-video-to-webp-converter.webp" alt="Banner Abner Bergmüller" width="100%">
+</p>
 
 <!--
 **abnerbergmuller/abnerbergmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
