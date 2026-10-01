@@ -2,26 +2,26 @@
 <img src="/assets/githubbanner.jpg" alt="Banner Abner Bergmüller" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abner-bergmuller" target="_blank">
+  <a href="https://www.linkedin.com/in/abner-bergmuller">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/abner_bergmuller/" target="_blank">
+  <a href="https://www.instagram.com/abner_bergmuller/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com">
     <img src="https://img.shields.io/badge/abnerkeys-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:abnerberg10@gmail.com" target="_blank">
+  <a href="mailto:abnerberg10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.duolingo.com/profile/AbnerAbas" target="_blank">
+  <a href="https://www.duolingo.com/profile/AbnerAbas">
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=duolingo&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>About me </em></h2>
+<h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>Sobre mim </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
