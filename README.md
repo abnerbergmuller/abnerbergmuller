@@ -1,5 +1,5 @@
 <!-- Se decidir colocar o banner na pasta assets, use: src="/assets/banner.jpg" -->
-<img src="banner.jpg" alt="Banner Abner Bergmüller" width="100%"/>
+<img src="/assets/banner.jpg" alt="Banner Abner Bergmüller" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abner-bergmuller" target="_blank">
