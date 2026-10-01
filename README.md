@@ -11,9 +11,6 @@
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/abnerkeys-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:abnerberg10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.duolingo.com/profile/AbnerAbas">
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=duolingo&logoColor=white" />
   </a>
