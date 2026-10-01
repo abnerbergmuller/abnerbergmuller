@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="Banner Abner Bergmüller" width="100%">
+  <img src="./assets/banner.jpg" alt="Banner Abner Bergmüller" width="100%">
 </p>
 
 <!--
