@@ -31,16 +31,16 @@
 <br/>
 
 <p align="center">
-   <img src="/assets/img3.png" width="15"/>   <em><b> Studying Software Engineering / Computer Science </b></em> <br/>
-   <img src="/assets/img4.png" width="15"/>   <em><b> Specializing in .NET Ecosystem & C# </b></em><br/>
-   <img src="/assets/img2.png" width="15"/>   <em><b> Building Web Applications & APIs </b></em><br/>
+   <img src="/assets/img3.png" width="15"/>   <em><b> Graduando CST em Análise e Desenvolvimento de Sistemas (ULBRA)</b></em> <br/>
+   <img src="/assets/img2.png" width="15"/>   <em><b> Amante de C# e do ecossistema .NET</b></em><br/>
+  <img src="/assets/img4.png" width="15"/>   <em><b> Specializing in .NET Ecosystem & C# </b></em><br/>
    <img src="/assets/img5.png" width="15"/>   <em><b> Tecladista e músico </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
-<h2 align="center"> <img src="/assets/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="/assets/title2.png" width="25"/> <em> Tech Stack </em> </h2>
 
 <p align="center">
   <!-- Linguagens -->
