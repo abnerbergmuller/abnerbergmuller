@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/OleusouoAbner-ezgif.com-video-to-webp-converter.webp" alt="Banner Abner Bergmüller" width="100%">
+  <img src="./assets/banner.webp" alt="Banner Abner Bergmüller" width="100%">
 </p>
 
 <!--
