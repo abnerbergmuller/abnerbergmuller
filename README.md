@@ -34,7 +34,7 @@
    <img src="/assets/img3.png" width="15"/>   <em><b> Studying Software Engineering / Computer Science </b></em> <br/>
    <img src="/assets/img4.png" width="15"/>   <em><b> Specializing in .NET Ecosystem & C# </b></em><br/>
    <img src="/assets/img2.png" width="15"/>   <em><b> Building Web Applications & APIs </b></em><br/>
-   <img src="/assets/img1.png" width="15"/>   <em><b> Tech Enthusiast </b></em><br/>
+   <img src="/assets/img5.png" width="15"/>   <em><b> Tecladista e músico </b></em><br/>
 </p>
 
 <br/>
