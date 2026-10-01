@@ -25,13 +25,15 @@
 <br/>
 
 <p>
-  Bem vindo! Me Chamo <em><b>Abner</b></em>, sou um desenvolvedor full stack junior, aluno do quarto semestre de Análise e Desenvolvimento de Sistemas. Atualmente estou direcionando meus estudos à aprimorar meu conhecimento em back-end utilizando C#/.NET e Flutter para o desenvolvimento mobile/cross-plataform, enquanto também desenvolvo minhas habilidades em banco de dados com PostgreSQL, versionamento com Git e Javascript para desenvolvimento web. Tenho como abordagem técnica escrever código limpo e sempre olhar pelo lado da arquitetura, tornando-a escalável e eficiente.
+  Me Chamo <em><b>Abner</b></em>, sou um desenvolvedor full stack junior. Atualmente estou direcionando meus estudos à aprimorar meu conhecimento em back-end utilizando C#/.NET e Flutter para o desenvolvimento mobile/cross-plataform, enquanto também desenvolvo minhas habilidades em banco de dados com PostgreSQL, versionamento com Git e Javascript para desenvolvimento web. 
+  
+  Tenho como abordagem técnica escrever código limpo e sempre olhar pelo lado da arquitetura, tornando-a escalável e eficiente.
 </p>
 
 <br/>
 
 <p align="center">
-   <img src="/assets/img3.png" width="15"/>   <em><b> Graduando CST em Análise e Desenvolvimento de Sistemas (ULBRA)</b></em> <br/>
+   <img src="/assets/img3.png" width="15"/>   <em><b> Graduando (4º semestre) CST em Análise e Desenvolvimento de Sistemas (ULBRA)</b></em> <br/>
    <img src="/assets/img2.png" width="15"/>   <em><b> Amante de C# e do ecossistema .NET</b></em><br/>
    <img src="/assets/img5.png" width="15"/>   <em><b> Tecladista e músico </b></em><br/>
 </p>
