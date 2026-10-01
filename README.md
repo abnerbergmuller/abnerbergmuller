@@ -42,25 +42,21 @@
 
 <h2 align="center"> <img src="/assets/title2.png" width="25"/> <em> Technologies </em> </h2>
 
-<h3 align="center">🌐 Linguagens</h3>
 <p align="center">
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<h3 align="center">🚀 Frameworks</h3>
-<p align="center">
+  
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Forms-000000?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-<h3 align="center">🛠️ Outros</h3>
-<p align="center">
+  
+  <!-- Outros -->
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
