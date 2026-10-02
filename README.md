@@ -25,7 +25,7 @@
 <br/>
 
 <p>
-  Me Chamo <em><b>Abner</b></em> e sou desenvolvedor full stack junior. Atualmente estou direcionando meus estudos à aprimorar meu conhecimento em back-end utilizando C#/.NET e Flutter para o desenvolvimento mobile/cross-plataform, enquanto também desenvolvo minhas habilidades em banco de dados com PostgreSQL, versionamento com Git e Javascript para desenvolvimento web. 
+  Me chamo <em><b>Abner</b></em> e sou desenvolvedor full stack junior. Atualmente estou direcionando meus estudos à aprimorar meu conhecimento em back-end utilizando C#/.NET e Flutter para o desenvolvimento mobile/cross-plataform, enquanto também desenvolvo minhas habilidades em banco de dados com PostgreSQL, versionamento com Git e Javascript para desenvolvimento web. 
   
   Tenho como abordagem técnica escrever código limpo e sempre olhar pelo lado da arquitetura, tornando-a escalável e eficiente.
 </p>
