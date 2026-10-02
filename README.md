@@ -32,7 +32,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
    <img src="/assets/img3.png" width="15"/>   <em><b> Graduando (4º semestre) CST em Análise e Desenvolvimento de Sistemas (ULBRA)</b></em> <br/>
    <img src="/assets/img2.png" width="15"/>   <em><b> Amante de C# e do ecossistema .NET</b></em><br/>
    <img src="/assets/img5.png" width="15"/>   <em><b> Tecladista e músico </b></em><br/>
