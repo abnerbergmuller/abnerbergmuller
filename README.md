@@ -21,7 +21,7 @@
 <h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>Sobre mim </em></h2>
 
 <!-- O GIF foi substituído pela sua imagem local -->
-<img src="/assets/imgg.png" width="250" align="right" style="margin-left: 20px;" />
+<img src="/assets/mascote-cafe.png" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
